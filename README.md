@@ -7,5 +7,5 @@
 
 ## 关于作者 / Red Joy
 
-* GitHub： [@cssmagic](https://github.com/RedJoy)
-[更多信息... / Contact Me...](https://github.com/RedJoy/share-timing/issues/
+* GitHub： [@RedJoy](https://github.com/RedJoy)
+[更多信息... / Contact Me...](https://github.com/RedJoy/share-timing/issues/)
